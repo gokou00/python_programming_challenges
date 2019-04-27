@@ -1,0 +1,3 @@
+def MovingMedian(arr):
+    mapDict = {}
+    
